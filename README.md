@@ -1,4 +1,3 @@
-# SaiketSystems_CustomerChurn_Analysis
 # 📊 Customer Churn Analysis – Business Analysis Internship (Saiket Systems)
 
 ### 👩‍💻 Intern: **Aarti Madole**
@@ -85,4 +84,27 @@ The findings can help telecom businesses **reduce churn** and **improve customer
 ---
 
 ## 📎 **Project Structure**
+📁 SaiketSystems_CustomerChurn_Analysis/
+│
+├── 📄 Telco_Customer_Churn_Dataset (3).csv
+├── 📘 SaiketSystems_CustomerChurn_Analysis.ipynb
+├── 🧼 Telco_Customer_Churn_Cleaned.csv
+└── 📝 README.md
 
+---
+
+## 🚀 **How to Run the Project**
+
+1. Clone the repository:  
+      git clone https://github.com/aartimadole/SaiketSystems_CustomerChurn_Analysis.git
+
+   
+2.Install required libraries:
+      pip install pandas numpy matplotlib seaborn
+
+
+3.Run the Jupyter Notebook:
+      jupyter notebook SaiketSystems_CustomerChurn_Analysis.ipynb
+
+
+4.View all outputs and visualizations.
