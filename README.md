@@ -122,9 +122,13 @@ Build a machine learning model to predict churn probability
 
 Automate churn reports using Python scripts
 
+---
+
 🏷️ Tags
 
 #DataAnalysis #BusinessIntelligence #Python #SaiketSystems
 #EDA #CustomerChurn #InternshipProject #DataVisualization
+
+---
 
 ⭐ If you find this project useful, don’t forget to star the repository! ⭐
