@@ -95,15 +95,18 @@ The findings can help telecom businesses **reduce churn** and **improve customer
 
 ## 🚀 **How to Run the Project**
 
-1. Clone the repository:  
+1. Clone the repository:
+     
       git clone https://github.com/aartimadole/SaiketSystems_CustomerChurn_Analysis.git
 
    
 2.Install required libraries:
+
       pip install pandas numpy matplotlib seaborn
 
 
 3.Run the Jupyter Notebook:
+
       jupyter notebook SaiketSystems_CustomerChurn_Analysis.ipynb
 
 
