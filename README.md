@@ -111,3 +111,20 @@ The findings can help telecom businesses **reduce churn** and **improve customer
 
 
 4.View all outputs and visualizations.
+
+---
+
+💡 Future Enhancements
+
+Create an interactive Power BI dashboard for churn analysis
+
+Build a machine learning model to predict churn probability
+
+Automate churn reports using Python scripts
+
+🏷️ Tags
+
+#DataAnalysis #BusinessIntelligence #Python #SaiketSystems
+#EDA #CustomerChurn #InternshipProject #DataVisualization
+
+⭐ If you find this project useful, don’t forget to star the repository! ⭐
